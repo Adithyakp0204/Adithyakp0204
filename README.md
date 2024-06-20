@@ -3,11 +3,11 @@
 
 
 <h1 align="center">I'm Adithya</h1>
-<h3 align="center">I am a passionate full-stack developer with extensive experience in building web applications using a wide range of technologies. My expertise lies in .NET, ASP.NET MVC, .NET Core, HTML, CSS, JavaScript, and more.</h3>
+I am a passionate full-stack developer with extensive experience in building web applications using a wide range of technologies. My expertise lies in .NET, ASP.NET MVC, .NET Core, HTML, CSS, JavaScript, and more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adithya-kp-380899162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adithya-kp-380899162" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adithya-kp-380899162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adithya-kp-380899162" height="25" width="35" /></a>
 </p>
 ### 🌟 Skills
 
