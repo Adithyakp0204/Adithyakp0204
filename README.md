@@ -1,4 +1,5 @@
 ## Hi there 👋
+(https://your-icon-url.com/icon.gif)
 
 <h1 align="center">I'm Adithya</h1>
 <h3 align="center">I am a passionate full-stack developer with extensive experience in building web applications using a wide range of technologies. My expertise lies in .NET, ASP.NET MVC, .NET Core, HTML, CSS, JavaScript, and more.</h3>
