@@ -17,7 +17,7 @@ I am a passionate full-stack developer with extensive experience in building web
 - **Tools & Platforms:** Visual Studio, Git, GitHub, Azure, IIS
 - **Frontend:** React, Angular, Vue.js (optional based on experience)
 - **Others:** RESTful APIs, LINQ, Unit Testing, Agile/Scrum
-📈 GitHub Stats
+📈 **GitHub Stats**
 
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=adithyakp0204&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyakp0204&layout=compact&theme=radical)
