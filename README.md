@@ -15,8 +15,8 @@ I am a passionate full-stack developer with extensive experience in building web
 - **Frameworks & Libraries:** ASP.NET MVC, .NET Core, Entity Framework, jQuery, Bootstrap
 - **Database Technologies:** SQL Server, MySQL
 - **Tools & Platforms:** Visual Studio, Git, GitHub, Azure, IIS
-- **Frontend:** React, Angular, Vue.js (optional based on experience)
-- **Others:** RESTful APIs, LINQ, Unit Testing, Agile/Scrum
+- **Frontend:** React, Angular
+- **Others:** RESTful APIs, LINQ
 
   </br>
 📈 **GitHub Stats**
