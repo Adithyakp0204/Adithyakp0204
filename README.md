@@ -7,10 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&width=800&lines=I+am+a+passionate+full-stack+developer;Experienced+in+.NET%2C+ASP.NET+MVC%2C+.NET+Core;Specializing+in+HTML%2C+CSS%2C+JavaScript+and+more" alt="Typing Animation" />
 </h3>
 
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adithya-kp-380899162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adithya-kp-380899162" height="25" width="35" /></a>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyakp&show_icons=true&locale=en&layout=compact" alt="adithyakp" /></p>
 ### 🌟 Skills
 
 - **Languages:** C#, JavaScript, HTML, CSS
