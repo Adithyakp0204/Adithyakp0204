@@ -7,7 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&width=800&lines=I+am+a+passionate+full-stack+developer;Experienced+in+.NET%2C+ASP.NET+MVC%2C+.NET+Core;Specializing+in+HTML%2C+CSS%2C+JavaScript+and+more" alt="Typing Animation" />
 </h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyakp&show_icons=true&locale=en&layout=compact" alt="adithyakp" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyakp&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyakp&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 ### 🌟 Skills
 
 - **Languages:** C#, JavaScript, HTML, CSS
