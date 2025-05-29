@@ -11,7 +11,7 @@
 ### 🌟 Skills
 
 - **Languages:** C#, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** ASP.NET MVC, .NET Core, Entity Framework, jQuery, Bootstrap
+- **Frameworks & Libraries:** Winforms, ASP.NET MVC, .NET Core, Entity Framework, jQuery, Bootstrap
 - **Database Technologies:** SQL Server, MySQL
 - **Tools & Platforms:** Visual Studio, Git, GitHub, Azure, IIS
 - **Frontend:** React, Angular (Basic Knowledge)
